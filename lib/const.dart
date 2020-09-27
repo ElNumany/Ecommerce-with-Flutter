@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const kMainColor = Colors.blueGrey;
+const kTextboxColor = Colors.grey;
+const KProductName = "ProductName";
+const KProductPrice = "ProductPrice";
+const KProductDescription = "ProductDescription";
+const KProductLocation = "ProductLocation";
+const KProductCategory = "ProductCategory";
+const KProductCollection = "Products";
+const kUnActiveColor = Colors.white;
+const kProductCategoryStudentsTools = "StudentsTools";
+const kProductCategoryStudentsActivity = "StudentsActivity";
+const kProductCategoryStudentsPlays = "StudentsPlays";
+const kProductCategoryServices = "Services";
+const kOrders = "Orders";
+const kOrdersDetails = "OrderDetails";
+const kTotalPrice = "TotalPrice";
+const kAddress = "Adress";
+const kQuantity = "Quantity";
+const kkeepmeLoggerIn = "KeepMeLoggedIn";

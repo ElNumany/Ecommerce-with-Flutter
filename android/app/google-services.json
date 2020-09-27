@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334930678725",
+    "firebase_url": "https://elhafidth-3eae7.firebaseio.com",
+    "project_id": "elhafidth-3eae7",
+    "storage_bucket": "elhafidth-3eae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334930678725:android:ff44788d5e97856b4871ac",
+        "android_client_info": {
+          "package_name": "com.example.mycontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334930678725-66tb7dd857v2su19mulpp8jqidqo5vke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs00ReRvKe0ziVVBMliTpX-wKZranj8Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334930678725-66tb7dd857v2su19mulpp8jqidqo5vke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
